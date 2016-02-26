@@ -7,3 +7,7 @@ ssh-keygen  -t rsa ¨Cc ¡°haizhuxiang@163.com¡±
 
 
 $ ssh-keygen -t rsa -C ¡°haizhuxiang@163.com¡±
+
+
+fasdfasd
+fasjfkajsdfkl
